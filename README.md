@@ -1,2 +1,0 @@
-# adc-hub
-ADC HUB
